@@ -1,2 +1,2 @@
 # Assets
-Ignore this github
+Ignore this repo
